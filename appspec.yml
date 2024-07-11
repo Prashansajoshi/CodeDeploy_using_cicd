@@ -2,7 +2,8 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ec2-user/nodejs-aws-codedeploy-pipeline
+    destination: /home/prashansa/Adex/codedeploy/CodeDeploy_using_cicd
+
 hooks:
 # ApplicationStop:
 # DownloadBundle:
